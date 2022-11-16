@@ -2,7 +2,14 @@
 
 This is my assignment 11 readme!
 
-## Wow this is so cool.
+## Team
+Name | Email | Phone
+--- | --- | ---
+Jessica | jeadd@work.com | 530-520-9612
+
+
+
+## Go to the bottom
 [This is a link!](README.md#join-game)
 
 ## Images
