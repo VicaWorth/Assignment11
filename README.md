@@ -14,13 +14,13 @@ Jessica | jeadd@work.com | 530-520-9612
 
 ## Images
 
-![Persephone drinking coffee with hades](a.png)
+![Persephone drinking wine with hades](a.png)
 
-![Persephone drinking coffee with hades](b.png)
+![Persephone drinking wine with hades](b.png)
 
-![Persephone drinking coffee with hades](c.png)
+![Persephone drinking wine with hades](c.png)
 
-![Persephone drinking coffee with hades](d.png)
+![Persephone drinking wine with hades](d.png)
 
 # join-game
 Here is where you join the game
