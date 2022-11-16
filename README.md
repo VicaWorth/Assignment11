@@ -9,5 +9,8 @@ This is my assignment 11 readme!
 
 Words words words words. 
 
-# join-game
+![Persephone drinking coffee with hades][a.png]
 
+
+# join-game
+Here is where you join the game
